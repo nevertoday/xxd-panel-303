@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-303
-description: "Create XXD Panel 303 raster artwork: a faithful photograph paired with one small geometric symbol, strong silhouette, flat blocks and editorial whitespace. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-303 or asks for this 几何符号 style."
+description: "XXD Panel 303｜Geometric Sign: keeps the photo and abstracts its subject into one small modernist geometric symbol that could stand alone as the mark of an art institution or cultural brand — circles, rectangles, triangles and irregular flat blocks, strong silhouette and negative-space relationships, a limited palette of one main colour, one support colour and one accent taken from the photo, extreme whitespace and an optional minimal English title, number or note in a narrow modern editorial type. No gradients, 3D or realistic detail. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-303 or asks for a geometric abstract logo mark, modernist symbol or editorial brand mark from a photo."
 ---
 
 # XXD Panel 303

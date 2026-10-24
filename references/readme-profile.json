@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 303｜Geometric Sign: keeps the photo and abstracts its subject into one small modernist geometric symbol that could stand alone as the mark of an art institution or cultural brand — circles, rectangles, triangles and irregular flat blocks, strong silhouette and negative-space relationships, a limited palette of one main colour, one support colour and one accent taken from the photo, extreme whitespace and an optional minimal English title, number or note in a narrow modern editorial type. No gradients, 3D or realistic detail. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-303 or asks for a geometric abstract logo mark, modernist symbol or editorial brand mark from a photo.",
+  "short_description": "几何符号：把照片主体抽成一枚用圆、方、三角和负形构成的现代主义标志",
+  "zh-CN": {
+    "name": "几何符号",
+    "tagline": "保留原照片，把主体抽成一枚脱离原图也能成立的几何标志。",
+    "look": "照片保持原样，设计部分不画对象本身，只留下一个轮廓、一种结构、一段运动方向或一种比例，用圆形、矩形、三角形和不规则平面块拼出来，正形和负形互相咬合。颜色从照片里取，分成一个主色、一个辅助色和一处点睛，鲜明但少，没有渐变和立体感。符号很小，居中或略偏，四周是大片空白，像画册里展示的机构标志。可以配一行极简英文标题、编号或小注释，用细窄的现代字体。",
+    "traits": ["几何抽象", "强轮廓", "负形", "编辑品牌", "有限色板"],
+    "good": [
+      "外形或结构很明确的主体：一座塔、一座拱桥、一只站立的鸟、一盏台灯",
+      "带清楚方向感的动作：跳水、奔跑、风中的旗子、弯曲的楼梯",
+      "想做成品牌标志、展览视觉或画册封面图形的照片"
+    ],
+    "poor": [
+      "认人的照片：抽象后五官和身份都不会保留",
+      "要靠颜色渐变、光影或质感取胜的照片：日落、雾景、丝绸",
+      "想要卡通图标、App 图标或写实插画的需求"
+    ]
+  },
+  "en": {
+    "name": "Geometric Sign",
+    "tagline": "Keeps your photo and abstracts the subject into one geometric mark that still works without the picture.",
+    "look": "The photo stays as it is. The design does not draw the object itself; it keeps one outline, one structure, one direction of movement or one proportion, built from circles, rectangles, triangles and irregular flat shapes whose positive and negative forms lock together. Colours come from the photo and are split into one main colour, one support colour and a single accent, bright but few, with no gradients or 3D. The symbol is small, centred or slightly off-centre, in a field of empty space, like an institution's mark shown in an art book. A minimal English title, number or tiny note can be added in a narrow modern typeface.",
+    "traits": ["Geometric abstraction", "Strong silhouette", "Negative space", "Editorial branding", "Limited palette"],
+    "good": [
+      "Subjects with a clear shape or structure: a tower, an arched bridge, a standing bird, a desk lamp",
+      "Movements with a clear direction: a dive, a runner, a flag in the wind, a curving staircase",
+      "Photos you want as a brand mark, exhibition graphic or catalogue cover"
+    ],
+    "poor": [
+      "Photos meant to identify a person: faces and likeness do not survive the abstraction",
+      "Photos that rely on gradients, light or texture: sunsets, fog, silk",
+      "Requests for cartoon icons, app icons or realistic illustration"
+    ]
+  },
+  "ja": {
+    "name": "幾何学シンボル",
+    "tagline": "写真はそのままに、主役を写真がなくても成り立つ幾何学的なマークに抽象化します。",
+    "look": "写真はそのまま残し、デザイン側は対象そのものを描かず、ひとつの輪郭、構造、動きの向き、あるいは比率だけを取り出します。円、長方形、三角形、不規則な平面を組み合わせ、図と地がかみ合うように構成します。色は写真から取り、メイン、サブ、差し色ひとつに分け、鮮やかでも数は少なく、グラデーションや立体感はありません。シンボルは小さく中央かやや外して置き、周りは大きな余白で、作品集に載った機関のロゴのように見えます。ごく短い英語のタイトル、番号、小さな注記を細身のモダンな書体で添えることがあります。",
+    "traits": ["幾何学的抽象", "強い輪郭", "ネガティブスペース", "エディトリアルなブランド", "限られた色数"],
+    "good": [
+      "形や構造がはっきりした主役：塔、アーチ橋、立っている鳥、デスクランプ",
+      "向きのはっきりした動き：飛び込み、走る人、風になびく旗、曲がる階段",
+      "ブランドマーク、展覧会のビジュアル、図録の表紙にしたい写真"
+    ],
+    "poor": [
+      "人物を見分けるための写真：抽象化すると顔や本人らしさは残りません",
+      "グラデーションや光、質感が見どころの写真：夕焼け、霧、シルク",
+      "キャラクターアイコン、アプリアイコン、写実的なイラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "기하 심벌",
+    "tagline": "원래 사진은 그대로 두고, 주인공을 사진 없이도 성립하는 기하학 마크로 추상화합니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 대상을 그대로 그리지 않고 윤곽 하나, 구조 하나, 움직임의 방향 하나, 혹은 비율 하나만 남깁니다. 원, 사각형, 삼각형, 불규칙한 평면 조각으로 만들며 양형과 음형이 서로 맞물립니다. 색은 사진에서 가져와 주색, 보조색, 포인트 한 곳으로 나누고, 선명하지만 가짓수는 적으며 그라데이션이나 입체감은 없습니다. 심벌은 작게 가운데나 살짝 비켜 두고 둘레는 넓게 비워, 작품집에 실린 기관 로고처럼 보입니다. 아주 짧은 영어 제목이나 번호, 작은 주석을 가늘고 현대적인 서체로 곁들일 수 있습니다.",
+    "traits": ["기하 추상", "강한 윤곽", "음형 공간", "에디토리얼 브랜딩", "제한된 색"],
+    "good": [
+      "형태나 구조가 분명한 주인공: 탑, 아치형 다리, 서 있는 새, 탁상 램프",
+      "방향이 분명한 동작: 다이빙, 달리는 사람, 바람에 날리는 깃발, 휘어진 계단",
+      "브랜드 마크, 전시 그래픽, 도록 표지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사람을 알아봐야 하는 사진: 추상화하면 얼굴과 닮은 모습은 남지 않습니다",
+      "그라데이션, 빛, 질감이 핵심인 사진: 노을, 안개, 실크",
+      "캐릭터 아이콘, 앱 아이콘, 사실적인 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رمز هندسي",
+    "tagline": "يحتفظ بصورتك ويجرّد عنصرها في علامة هندسية تقف بذاتها حتى من دون الصورة.",
+    "look": "تبقى الصورة كما هي، ولا يرسم التصميم الشيء نفسه، بل يحتفظ بخط خارجي واحد أو بنية واحدة أو اتجاه حركة أو نسبة، ويبنيها من دوائر ومستطيلات ومثلثات ومساحات مسطحة غير منتظمة يتداخل فيها الشكل والفراغ. تُؤخذ الألوان من الصورة وتُقسم إلى لون رئيسي ولون مساند ولمسة واحدة بارزة، زاهية لكنها قليلة، بلا تدرّج ولا مجسّمات. الرمز صغير في الوسط أو مائل عنه قليلاً، تحيط به مساحة فارغة واسعة، كشعار مؤسسة معروض في كتاب فني. يمكن إضافة عنوان إنجليزي قصير جداً أو رقم أو ملاحظة صغيرة بخط حديث نحيل.",
+    "traits": ["تجريد هندسي", "خط خارجي قوي", "مساحة سالبة", "هوية تحريرية", "ألوان محدودة"],
+    "good": [
+      "عناصر ذات شكل أو بنية واضحة: برج، جسر مقوّس، طائر واقف، مصباح مكتب",
+      "حركات واضحة الاتجاه: قفزة في الماء، عدّاء، علم في الريح، درج ملتفّ",
+      "صور تريدها شعاراً لعلامة تجارية أو تصميماً لمعرض أو غلافاً لكتالوج"
+    ],
+    "poor": [
+      "صور الغرض منها التعرّف على شخص: الملامح والشبه لا يبقيان بعد التجريد",
+      "صور تعتمد على التدرّج أو الضوء أو الملمس: الغروب، الضباب، الحرير",
+      "طلب أيقونات كرتونية أو أيقونات تطبيقات أو رسم واقعي"
+    ]
+  }
+}
